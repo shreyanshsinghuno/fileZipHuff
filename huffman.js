@@ -1,7 +1,3 @@
-/**
- * Created by aarnavjindal on 25/04/20.
- */
-
 import { BinaryHeap } from './heap.js';
 
 export { HuffmanCoder }
